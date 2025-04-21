@@ -1,0 +1,6 @@
+Example CSV Output (startup_programs.csv):
+
+Location,Name,Path
+HKLM:Run,WindowsDef,C:\Program Files\Windows Defender\def.exe
+HKCU:Run,Discord,C:\Users\Wiley\AppData\Local\Discord\Update.exe
+Startup Folder,openvpn-gui,C:\Users\Wiley\Start Menu\Programs\Startup\openvpn-gui.lnk
